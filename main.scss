@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700&display=swap');
+@import "normalize";
+@import "formalize";
+@import "variables";
+@import "header";
+@import "content";
+
+
+svg{
+    cursor: pointer;
+}
+
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+  }
+
+
+ 
